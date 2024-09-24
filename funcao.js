@@ -42,7 +42,7 @@ async function ReadWorkSheet() {
 }
 
 
-//Crie uma função assíncrona AddUser(data={}) usando o método POST para subir as informações obtidas para a API criada anteriormente;
+//Criando uma função assíncrona AddUser(data={}) usando o método POST para subir as informações obtidas para a API criada anteriormente;
 
 async function AddUser(data={}) {
     
@@ -67,12 +67,3 @@ async function TrackData() {
 }
 
 TrackData();
-
-//perguntas: sobre o código:
-
-// na função GetDoc(), ta cert passar o id do arquivo de planilhas assim:  
-//const documento = new GoogleSpreadsheet('1B_aNW3fc0jf5e5R79-EeBCmPTLey_iK_77rUyfA5zh4',jwt)
-
-//é necssario usar o modeulo.experts, para passar os código feitos no index para a esse código funcao.js??
-
-//pedir pra explicar a função TrackData(chat)
