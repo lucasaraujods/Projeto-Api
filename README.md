@@ -30,18 +30,6 @@ Este projeto foi desenvolvido para integrar uma planilha do Google Sheets com um
 4. **Automatização do Processo**:
    Uma função principal une todo o processo: lê a planilha, transforma os dados em objetos e envia-os para a API de forma assíncrona. Se tudo for concluído com sucesso, é retornada uma mensagem de sucesso.
 
-## Como Executar
-
-1. **Instale as dependências**:
-
-
-2. **Autenticação**:
-Insira as credenciais e o arquivo JSON fornecidos pela Google API no mesmo diretório do arquivo JavaScript principal.
-
-3. **Executar o projeto**:
-Execute o arquivo principal para iniciar o processo de leitura de planilhas e envio de dados para a API:
-
-
 ---
 
 Para dúvidas ou sugestões, você pode entrar em contato através do meu GitHub: [Lucas Araújo Da Silva](https://github.com/lucasaraujods).
