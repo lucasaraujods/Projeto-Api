@@ -30,7 +30,4 @@ Este projeto foi desenvolvido para integrar uma planilha do Google Sheets com um
 4. **Automatização do Processo**:
    Uma função principal une todo o processo: lê a planilha, transforma os dados em objetos e envia-os para a API de forma assíncrona. Se tudo for concluído com sucesso, é retornada uma mensagem de sucesso.
 
----
-
-Para dúvidas ou sugestões, você pode entrar em contato através do meu GitHub: [Lucas Araújo Da Silva](https://github.com/lucasaraujods).
 
